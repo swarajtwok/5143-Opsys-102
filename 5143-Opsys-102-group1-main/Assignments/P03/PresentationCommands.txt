@@ -1,0 +1,9 @@
+python3 main.py --filename cpu_small.dat --type PR
+python3 main.py --filename io_small.dat --CPU 2 --IO 3 --Time_Slice 5
+python3 main.py --filename cpu_small.dat --CPU 5 --IO 2 --Time_Slice 8
+python3 main.py --timer .01 --filename cpu_medium.dat 
+python3 main.py --CPU 3 --IO 3
+
+
+
+3, 16, 6 ,32 highest pirority medium cpu processes.
