@@ -1,10 +1,11 @@
-## Swaraj Chirumamilla
-#### Repo: 5143-Opsys-102
-#### Email: swarajtwok@gmail.com
-#### Website: N/A
-#### Image:
-![colorado dp](https://github.com/swarajtwok/5143-Opsys-102/assets/67910599/7fbe0ebb-b50c-4411-8784-a04c9ab7618a)
+## CMPS 5143: Advanced Operating Systems
 
+### Group Members
+| Member | Github Repo |
+| ------ | ----------- |
+| Chintan Mehta | **[chill-chin](https://github.com/chill-chin)** |
+| Michael Ellerkamp | **[ILDivino](https://github.com/ILDivino/5143-Opsys-102)** |
+| Swaraj Chirumamilla | **[swarajtwok](https://github.com/swarajtwok/5143-Opsys-102)** |
 
-#### Avatar:
-N/A
+### Assignments
+* **[Assignments Directory](https://github.com/chill-chin/5143-Opsys-102-group1/tree/main/Assignments)**
